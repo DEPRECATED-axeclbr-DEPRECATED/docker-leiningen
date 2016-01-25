@@ -22,7 +22,7 @@ The .dockerignore-file is added to increase build-performance. For more informat
 
 Next create a new file with the name ``Dockerfile`` and add the following content
 
-```
+```dockerfile
 FROM axeclbr/leiningen
 
 MAINTAINER Your Name <Your.Name@youremailaddr.ess>
