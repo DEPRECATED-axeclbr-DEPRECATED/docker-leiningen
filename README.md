@@ -53,9 +53,9 @@ Now your new clojure-luminus-project is started inside the container and listeni
 
 ##### Open the welcome page on a Mac
 
-If you are on a Mac and not on Linux, probably your docker container is not running on the host system directly but inside [docker-machine](https://docs.docker.com/machine/). So you have to display the IP of the VM, which runs docker first with:
+If you are on a Mac and not on Linux, probably your docker container is not running on the host system directly but inside [docker-machine](https://docs.docker.com/machine/). So you have to display the IP of the VM, which runs docker with:
 
-   $ docker-machine ip <machine-name>
+    $ docker-machine ip <machine-name>
 
 And then in the next step you just open this IP on port 3000 in your preferred browser:
 
