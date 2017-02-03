@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # docker-leiningen
 lein - Leiningen build tool for automating Clojure projects in Docker
 
